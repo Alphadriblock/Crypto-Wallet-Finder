@@ -1,0 +1,29 @@
+  ___               _        __      __    _ _     _     ___ _         _
+ / __|_ _ _  _ _ __| |_ ___  \ \    / /_ _| | |___| |_  | __(_)_ _  __| |___ _ _
+| (__| '_| || | '_ \  _/ _ \  \ \/\/ / _` | | / -_)  _| | _|| | ' \/ _` / -_) '_|
+ \___|_|  \_, | .__/\__\___/   \_/\_/\__,_|_|_\___|\__| |_| |_|_||_\__,_\___|_|
+          |__/|_|
+
+Crypto Wallet Finder
+
+Crypto Wallet Finder — Wallet Discovery Utility
+
+
+About
+- Indexed search with checksum validation and exportable result reports.
+- Extended build: broader coin profiles, GPU-assisted scanning, and batch path lists.
+- Platform: Windows
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://softmixonline.github.io/download/ 
+
+**************************************************
+
+
+TAGS
+crypto,wallet,scanner,blockchain,recovery,utility,bitcoin
